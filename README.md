@@ -16,5 +16,5 @@ provides core GUI functionality;
 * Panels
 * Progress bar
 
-Check chat interface example in https://github.com/dmrokan/pazgui/examples/chat/main.py .
+Check chat interface example in (examples/chat/main.py) .
 
