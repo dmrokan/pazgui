@@ -1,0 +1,14 @@
+attrs==20.3.0
+blessed==1.17.12
+iniconfig==1.1.1
+packaging==20.8
+# Editable Git install with no remote (pazgui==0.0.1)
+-e /home/okan/Development/projects/pazgui
+pluggy==0.13.1
+py==1.10.0
+pyparsing==2.4.7
+pytest==6.2.1
+schedule==0.6.0
+six==1.15.0
+toml==0.10.2
+wcwidth==0.2.5
